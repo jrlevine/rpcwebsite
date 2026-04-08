@@ -1,0 +1,7 @@
+XML and related files to upload to Crossref to change old DOIs
+
+newdoi.xml create DOIs without leading zeros
+linkdoi.xml change old DOI metadata to stub
+doialias.txt list of alias info to force
+
+alias.eml newdoi.eml linkdoi.eml Crossref reports after submission
